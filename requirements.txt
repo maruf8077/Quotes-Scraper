@@ -1,9 +1,7 @@
 streamlit
+bcrypt
 requests
 beautifulsoup4
 pandas
-sqlite3
-bcrypt
-asyncio
 aiohttp
-datetime
+streamlit-option-menu
