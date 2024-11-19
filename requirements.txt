@@ -7,4 +7,3 @@ bcrypt
 asyncio
 aiohttp
 datetime
-streamlit
