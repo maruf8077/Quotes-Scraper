@@ -2,3 +2,8 @@ streamlit
 requests
 beautifulsoup4
 pandas
+sqlite3
+bcrypt
+asyncio
+aiohttp
+datetime
